@@ -1,5 +1,5 @@
-import Link from 'next/link'
-import { useRef } from 'react'
+import { useRef } from 'react';
+import Link from 'next/link';
 
 export function NavMenu() {
   //menu Hamburguesa
